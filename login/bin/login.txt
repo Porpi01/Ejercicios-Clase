@@ -1,0 +1,12 @@
+
+Nombre: Monica
+Localización: eeee
+Fecha Nacimiento: 22313
+Teléfono: 655555555
+Departamento: TIC
+Email: maca@gmail.com
+Número Seguridad Social: 1111111111
+Número Cuenta Bancaria: ES00-0000-0000-00-0000000000
+Fecha Incorporación: wwwww
+Foto: javax.swing.ImageIcon@677a1d1e
+Código: 1
